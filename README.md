@@ -12,28 +12,22 @@ The job's technical skills involved being a professional user of audio software,
 
 - Professional Pro Tools, Logic, Native Instruments and Oxford Plugin user.
 - I achieved Wwise 101 certification through self-learning.
-- Ability to mix to various specifications including R128, OP59, 82LEQ, etc.
+- Learning new technologies such as Source Connect (Skype for audio studio).
 
 #### Creative
 
-I'm at my happiest when creating things or using my creative skills to solve problems.
+I used my creative skills in my role as a Sound Designer because a client would typically come to you with audio 'that just isn't working', or is noisy, and it would be your job to analyse it and come up with a solution to fix it.
 
-I used my creative skills in my role as a Sound Designer because a client would typically come to you with a problem - noisy audio, for example - and it would be your job to find a solution to fixing it.
-
-Likewise, a client might have a certain bit of audio 'that just isn't working' and it would be your job to analyse what that could mean and then come up with a way of fixing it.
-
-Music has also been a major part of my life and I love the creative process of writing and producing it.
-
-I was the guitarist and co-songwriter in a signed band between 2010-2013 which included releasing a full length album on Naim Edge and playing at Reading & Leeds festival (there is a YouTube video somewhere..!). I still produce electronic music when time allows.
+I am at my happiest when creating and music has been a major part of my life. I was the guitarist and co-songwriter in a signed band between 2010-2013 which included releasing a full length album on Naim Edge and playing at Reading & Leeds festival.
 
 - I won a 2016 Silver LIA award for an Xbox Radio commercial.
 - I contributed bumper sounds to the worlds most popular Sound Design podcast, Tonebenders, which are still used today!
 
 #### Communication
 
-Throughout my career I have acted as a translator between the technical and non-technical. Describing sound can be hard, and my ability to translate non-technically described client briefs into the technical was a large part of my role.
+Throughout my career I have acted as a translator between the technical and non-technical. Describing sound can be hard, and my ability to interpret non-technically described client briefs into the what they required technically was a large part of my role.
 
-Furthermore, translating technical language into non-technical language is something I am comfortable with. For example, a client could sometimes become frustrated when their vision wasn't materialising due to a technical reason. I would then have to explain why this problem was occurring in a non-technical way in order for a client to grasp it.
+Likewise, a client could become frustrated when their vision wasn't materialising due to a technical reason. I would then have to explain why this problem was occurring in a non-technical way in order for a client to grasp it.
 
 It is something that I particularly enjoy and since learning to code i've begun a blog communicating my experiences thus far.
 
