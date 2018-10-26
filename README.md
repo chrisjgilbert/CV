@@ -4,7 +4,7 @@ I am a former Sound Designer who has decided to learn to code at Makers Academy.
 
 ## Skills
 
-#### Technical
+### Technical
 
 My previous role required me to learn new technical skills quickly. My ability to do this meant whilst I was at McCann Erickson I was trusted by the Senior Engineer to run several high pressured sessions despite only being an Assistant at the time.
 
@@ -13,7 +13,7 @@ The job's technical skills involved being a professional and fast user of audio 
 - Professional Pro Tools, Logic, Native Instruments and Oxford Plugin user.
 - I achieved Wwise 101 certification through self-learning.
 
-#### Creative
+### Creative
 
 I used my creative skills in my role as a Sound Designer because a client would typically come to you with audio 'that just isn't working', or is noisy, and it would be your job to analyse it and come up with a solution to fix it.
 
@@ -22,7 +22,7 @@ I am at my happiest when creating and music has been a major part of my life. I 
 - I won a 2016 Silver LIA award for an Xbox Radio commercial.
 - I contributed bumper sounds to the worlds most popular Sound Design podcast, Tonebenders, which are still used today!
 
-#### Communication
+### Communication
 
 Throughout my career I have acted as a translator between the technical and non-technical. Describing sound can be hard, and my ability to interpret non-technically described client briefs into the what they required technically was a large part of my role.
 
@@ -32,7 +32,7 @@ It is something that I particularly enjoy and since learning to code i've begun 
 
 ## Education
 
-#### Makers Academy (November 2018 to January 2019)
+### Makers Academy (November 2018 to January 2019)
 
 - Curious and passionate about code: freeCodeCamp Responsive Web Design Certification.
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -41,13 +41,13 @@ It is something that I particularly enjoy and since learning to code i've begun 
 - Ruby
 - RSpec
 
-#### University of Brighton (2010 to 2012)
+### University of Brighton (2010 to 2012)
 
 - Music Production fDA
 - 2:1
 - Recorded and produced 3 EPs for local artists.
 
-#### University of Sussex (2008 to 2010)
+### University of Sussex (2008 to 2010)
 
 - BA in History and Politics.
 - Completed the first year before switching to study Music Production.
