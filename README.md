@@ -62,11 +62,11 @@ It is something that I particularly enjoy and since learning to code i've begun 
 ## Experience
 
 **Offset Audio** (May 2017 to August 2018)    
-*Dubbing Mixer*
+*Dubbing Mixer*  
 Worked with clients such as ITV, Comedy Central, MTV, Cartoon Network & 3Angrymen and Turner.
 
 **McCann Erickson** (November 2014 to April 2017)   
-*Sound Designer*
+*Sound Designer*  
 Transitioned from an Assistant to a Sound Designer and worked on global advertising campaigns for clients such as Microsoft, Aldi, Subway, Shreddies, GWR, Xbox, PictureHouse & Bisto.
 
 **750mph** (June 2013 to October 2014)   
