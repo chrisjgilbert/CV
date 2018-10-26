@@ -6,9 +6,9 @@ I am a former Sound Designer who has decided to learn to code at Makers Academy.
 
 #### Technical
 
-A Sound Designer's job is primarily a technical one. It is also one where the skills are typically learnt 'on the job'. My ability to learn new technical skills quickly meant whilst I was at McCann Erickson I was trusted by the Senior Engineer to run several high pressured sessions, despite only being an Assistant at the time.
+My previous role required me to learn new technical skills quickly. My ability to do this meant whilst I was at McCann Erickson I was trusted by the Senior Engineer to run several high pressured sessions despite only being an Assistant at the time.
 
-The job's technical skills involved being a professional user of audio software, an ability to mix audio using plugins, knowledge of acoustics and microphones, an ability to understand audio specifications, and keep up to date with new technologies such as Source Connect (like Skype for audio studios).
+The job's technical skills involved being a professional user of audio software, knowledge of acoustics and microphones, and an being comfortable interpreting audio specifications.
 
 - Professional Pro Tools, Logic, Native Instruments and Oxford Plugin user.
 - I achieved Wwise 101 certification through self-learning.
