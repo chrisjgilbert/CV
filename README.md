@@ -8,11 +8,10 @@ I am a former Sound Designer who has decided to learn to code at Makers Academy.
 
 My previous role required me to learn new technical skills quickly. My ability to do this meant whilst I was at McCann Erickson I was trusted by the Senior Engineer to run several high pressured sessions despite only being an Assistant at the time.
 
-The job's technical skills involved being a professional user of audio software, knowledge of acoustics and microphones, and an being comfortable interpreting audio specifications.
+The job's technical skills involved being a professional and fast user of audio software, knowledge of acoustics and microphones, and an being comfortable interpreting often complex audio specifications and applying them to your work. I also kept up with and learned newer technologies such as Source Connect and the world of VR audio.
 
 - Professional Pro Tools, Logic, Native Instruments and Oxford Plugin user.
 - I achieved Wwise 101 certification through self-learning.
-- Learning new technologies such as Source Connect (Skype for audio studio).
 
 #### Creative
 
