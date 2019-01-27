@@ -10,8 +10,8 @@ I am a former Sound Designer who decided to learn to code at Makers Academy. Hav
 
 | Project        | Summary           | Technologies  |
 | ------------- |:-------------:| -----:|
-| [TweetMood](https://github.com/chrisjgilbert/tweet_mood)      | Used IBM's Watson to analyse the sentiment of tweets on a chose topic in a chosen location. Also built our own Holmes to rival with Watson. [Deployed on Heroku](https://tweet-mood.herokuapp.com/) | Python, Django, Pytest, IBM Watson, Travis, Heroku |
-| [Acebook](https://github.com/chrisjgilbert/acebook-floppy-disk)    | Facebook clone [deployed to Heroku](https://aqueous-wave-77193.herokuapp.com/) |   Rails, RSpec, Capybara, Trais, Heroku |
+| [TweetMood](https://github.com/chrisjgilbert/tweet_mood) | Tweet sentiment analyser with help from IBM Watson. We also built our own Holmes. [Deployed on Heroku](https://tweet-mood.herokuapp.com/) | Python, Django, Pytest, IBM Watson, Travis, Heroku |
+| [Acebook](https://github.com/chrisjgilbert/acebook-floppy-disk) | Facebook clone [deployed to Heroku](https://aqueous-wave-77193.herokuapp.com/) |   Rails, RSpec, Capybara, Trais, Heroku |
 | [News Summary](https://github.com/chrisjgilbert/news-summary-challenge) | Vanilla JS SPA pulling using the Guardian API to display latest news | JS, 'tea' (my own testing framework) |
 | [ChristaGram](https://github.com/chrisjgilbert/instagram-challenge) | InstaGram clone [deployed to Heroku](https://quiet-spire-51096.herokuapp.com/) |    Rails, RSpec, Capybara, Travis, Heroku |
 
