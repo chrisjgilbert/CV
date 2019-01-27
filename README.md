@@ -8,10 +8,10 @@ I am a former Sound Designer who decided to learn to code at Makers Academy. Hav
 
 | Project        | Summary           | Technologies  |
 | ------------- |:-------------:| -----:|
-| TweetMood      | Used IBM's Watson to analyse the sentiment of tweets on a chose topic in a chosen location. Also built our own Holmes to rival with Watson. | Python, Django, Pytest, IBM Watson, Travis, Heroku |
-| Acebook     | Facebook clone      |   Rails, RSpec, Capybara, Trais, Heroku |
-| ChristaGram | Instagram clone     |    Rails, RSpec, Capybara, Travis, Heroku |
-| News Summary | Vanilla JS SPA pulling using the Guardian API to display latest news | JS, 'tea' (my own testing framework) |
+| [TweetMood] (https://github.com/chrisjgilbert/tweet_mood)      | Used IBM's Watson to analyse the sentiment of tweets on a chose topic in a chosen location. Also built our own Holmes to rival with Watson. | Python, Django, Pytest, IBM Watson, Travis, Heroku |
+| [Acebook] (https://github.com/chrisjgilbert/acebook-floppy-disk)    | Facebook clone      |   Rails, RSpec, Capybara, Trais, Heroku |
+| [ChristaGram] (https://github.com/chrisjgilbert/instagram-challenge) |      |    Rails, RSpec, Capybara, Travis, Heroku |
+| [News Summary] (https://github.com/chrisjgilbert/news-summary-challenge) | Vanilla JS SPA pulling using the Guardian API to display latest news | JS, 'tea' (my own testing framework) |
 
 ## Skills
 
