@@ -1,10 +1,12 @@
 ## Chris Gilbert
 
-(About)[##About]
+[About](##About)  
 
 ## About
 
-I am a former Sound Designer who decided to learn to code at Makers Academy. Having designed and created sounds for the TV and radio, I now want to help design and create applications for the Web. Ideally, I am looking to work at a company that distributes media - preferably film, music or sport.
+I am a former Sound Designer who decided to learn to code at Makers Academy. Having designed and created sounds for the TV and radio, I now want to help design and create applications for the Web.
+
+Ideally, I am looking to work at a company in the media industry - preferably film, music or sport.
 
 ## Projects
 
@@ -22,27 +24,32 @@ I am a former Sound Designer who decided to learn to code at Makers Academy. Hav
 
 My previous role required me to learn new technical skills quickly. My ability to do this meant whilst I was at McCann Erickson I was trusted by the Senior Engineer to run several high pressured sessions despite only being an Assistant at the time.
 
-The job's technical skills involved being a professional and fast user of audio software, knowledge of acoustics and microphones, and an being comfortable interpreting often complex audio specifications and applying them to your work. I also kept up with and learned newer technologies such as Source Connect and the world of VR audio.
+The job necessitated being a speedy user of audio software, having an in depth knowledge of audio, and being comfortable interpreting often complex audio specifications and applying them to your work.
 
-- Professional Pro Tools, Logic, Native Instruments and Oxford Plugin user.
-- I achieved Wwise 101 certification through self-learning.
+This has set me in good stead to be able to pick up new technologies quickly. In the 12 weeks at Makers I have built projects using:
+
+* Ruby, Sinatra, Rails, RSpec, Capybara
+* JS, Express, Node, React, EJS, MongoDB, Zombie, Jasmine, Chai/Mocha
+* Python, Django, Pytest
+* Travis, Heroku
+* APIs & SDKs such as Aylien, Spotify, IBM Watson, Openweather, The Guardian
 
 ### Creative
 
-I used my creative skills in my role as a Sound Designer because a client would typically come to you with audio 'that just isn't working', or is noisy, and it would be your job to analyse it and come up with a solution to fix it.
+I developed my creative problem solving skills in my role as a Sound Designer because a client would typically come to you with audio 'that just isn't working', or is noisy, and it would be your job to analyse it and come up with a solution to fix it.
 
-I am at my happiest when creating and music has been a major part of my life. I was the guitarist and co-songwriter in a signed band between 2010-2013 which included releasing a full length album on Naim Edge and playing at Reading & Leeds festival.
+Creative problem solving has therefore been an invaluable skill to transfer to development, which necessitates it.
 
-- I won a 2016 Silver LIA award for an Xbox Radio commercial.
-- I contributed bumper sounds to the worlds most popular Sound Design podcast, Tonebenders, which are still used today!
+* I won a 2016 Silver LIA award for an Xbox Radio commercial.
+* I was the guitarist and co-songwriter in a signed band between 2010-2013 which included releasing a full length album on Naim Edge and playing at Reading & Leeds festival.
 
 ### Communication
 
 Throughout my career I have acted as a translator between the technical and non-technical. Describing sound can be hard, and my ability to interpret non-technically described client briefs into the what they required technically was a large part of my role.
 
-Likewise, a client could become frustrated when their vision wasn't materialising due to a technical reason. I would then have to explain why this problem was occurring in a non-technical way in order for a client to grasp it.
+Similarly, a client could become frustrated when their vision wasn't materialising due to a technical reason. I would then have to explain why this problem was occurring in a non-technical way in order for a client to grasp it.
 
-It is something that I particularly enjoy and since learning to code i've begun a blog communicating my experiences thus far.
+Whilst following Agile processes and XP values at Makers it has been important to have very strong communication skills and I have particularly enjoyed the pairing and team projects.
 
 ## Education
 
@@ -51,7 +58,7 @@ It is something that I particularly enjoy and since learning to code i've begun 
 - XP Values
 - SOLID principles
 - Agile processes
-- Growth mindset
+- A "growth" mindset
 
 ### University of Brighton (2010 to 2012)
 
@@ -74,5 +81,6 @@ Started off as a runner making tea for engineers and clients before being promot
 
 ## Interests
 - I produce a podcast 'A New Place Every Week' which is a food review show with a comedic edge (and comes out more like once a month!).
-- I enjoy film and have mixed a few shorts. I wrote a full length screenplay which is currently gathering dust as it awaits a second draft.
-- I am keen footballer and play a few times a week.
+- I enjoy film and have mixed a few shorts. I wrote a full length screenplay
+which is currently gathering dust as it awaits a second draft.
+- I contributed bumper sounds to the worlds most popular Sound Design podcast, Tonebenders, which are still used today!
