@@ -1,8 +1,19 @@
 ## Chris Gilbert
 
-I am a former Sound Designer who has decided to learn to code at Makers Academy. Having designed and created sounds for the TV and radio, I now want to help design and create applications for the Web. Ideally, I am looking to work at a company that distributes media - preferably film, music or sport.
+[About] (#about)
+
+## About
+
+I am a former Sound Designer who decided to learn to code at Makers Academy. Having designed and created sounds for the TV and radio, I now want to help design and create applications for the Web. Ideally, I am looking to work at a company that distributes media - preferably film, music or sport.
 
 ## Skills
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 
 ### Technical
 
