@@ -14,7 +14,7 @@ I am a former Sound Designer who decided to learn to code at Makers Academy. Hav
 | [Acebook](https://github.com/chrisjgilbert/acebook-floppy-disk) | Facebook clone [deployed on Heroku](https://aqueous-wave-77193.herokuapp.com/) |   Rails, RSpec, Capybara, Travis, Heroku |
 | [News Summary](https://github.com/chrisjgilbert/news-summary-challenge) | Vanilla JS SPA using the Guardian API to display latest news | JS, tea (my own testing framework) |
 | [ChristaGram](https://github.com/chrisjgilbert/instagram-challenge) | InstaGram clone [deployed on Heroku](https://quiet-spire-51096.herokuapp.com/) | Rails, RSpec, Capybara, Travis, Heroku |
-| [nixtulloch](https://chrisjgilbert.github.io/) | Fashion consultant's personal site [deployed on GitHub paged](https://chrisjgilbert.github.io/) | jQuery, Bootstrap |
+| [nixtulloch](https://chrisjgilbert.github.io/) | Fashion consultant's personal site [deployed on GitHub pages](https://chrisjgilbert.github.io/) | jQuery, Bootstrap |
 
 ## Skills
 
@@ -48,37 +48,29 @@ It is something that I particularly enjoy and since learning to code i've begun 
 
 ### Makers Academy (November 2018 to January 2019)
 
-- Curious and passionate about code: freeCodeCamp Responsive Web Design Certification.
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-- Ruby
-- RSpec
+- XP Values
+- SOLID principles
+- Agile processes
+- Growth mindset
 
 ### University of Brighton (2010 to 2012)
 
 - Music Production fDA
 - 2:1
-- Recorded and produced 3 EPs for local artists.
-
-### University of Sussex (2008 to 2010)
-
-- BA in History and Politics.
-- Completed the first year before switching to study Music Production.
 
 ## Experience
 
 **Offset Audio** (May 2017 to August 2018)    
 *Dubbing Mixer*  
-Worked with clients such as ITV, Comedy Central, MTV, Cartoon Network & 3Angrymen and Turner.
+Mixed and recorded audio for clients such as Director's Cut, ITV, Comedy Central, MTV, Cartoon Network & 3Angrymen and Turner.
 
 **McCann Erickson** (November 2014 to April 2017)   
 *Sound Designer*  
-Transitioned from an Assistant to a Sound Designer and worked on global advertising campaigns for clients such as Microsoft, Aldi, Subway, Shreddies, GWR, Xbox, PictureHouse & Bisto.
+Transitioned from an Assistant to full Sound Designer. Mixed and recorded audio for global advertising campaigns for clients such as Microsoft, Aldi, Subway, Shreddies, GWR, Xbox, PictureHouse & Bisto.
 
 **750mph** (June 2013 to October 2014)   
 *Transfer Engineer*  
-Started off as a runner making tea for engineers and clients before being promoted into the Transfer department. It involved managing all file imports and exports for studios.
+Started off as a runner making tea for engineers and clients before being promoted into the Transfer department.
 
 ## Interests
 - I produce a podcast 'A New Place Every Week' which is a food review show with a comedic edge (and comes out more like once a month!).
