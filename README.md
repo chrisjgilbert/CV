@@ -1,8 +1,18 @@
-## Chris Gilbert   
-[Medium Blog](https://medium.com/@chrisjgilbert)
-[Twitter](https://twitter.com/_chrisjgilbert)
 
-### [About](#About) | [Projects](#Projects) | [Skills](#Skills) |  [Education](#Education) | [Experience](#Experience) | [Interests](#Interests)
+
+<p align="center">
+  <h1>Chris Gilbert</h1>
+  <a href="#About">About</a> |
+  <a href="#Projects">Projects</a> |
+  <a href="#Skills">Skills</a> |
+  <a href="#Education">Education</a> |
+  <a href="#Experience">Experience</a> |
+  <a href="#Interests">Interests</a> |
+  <br><br>
+</p>
+
+[Medium](https://medium.com/@chrisjgilbert)
+[Twitter](https://twitter.com/_chrisjgilbert)
 
 ## About
 
