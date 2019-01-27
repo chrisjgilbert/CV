@@ -12,7 +12,7 @@ I am a former Sound Designer who decided to learn to code at Makers Academy. Hav
 | [Acebook] (https://github.com/chrisjgilbert/acebook-floppy-disk)    | Facebook clone      |   Rails, RSpec, Capybara, Trais, Heroku |
 | [ChristaGram] (https://github.com/chrisjgilbert/instagram-challenge) |      |    Rails, RSpec, Capybara, Travis, Heroku |
 | [News Summary] (https://github.com/chrisjgilbert/news-summary-challenge) | Vanilla JS SPA pulling using the Guardian API to display latest news | JS, 'tea' (my own testing framework) |
-
+[I'm an inline-style link](https://www.google.com)
 ## Skills
 
 
