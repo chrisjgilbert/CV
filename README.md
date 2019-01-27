@@ -1,6 +1,6 @@
 ## Chris Gilbert
 
-[About](##About)  
+[About](##About) | [Projects](##Projects) | [Skills](##Skills) | [Education](##Education) | [Experience](##Experience) || [Interests](##Interests)
 
 ## About
 
@@ -46,8 +46,6 @@ Creative problem solving has therefore been an invaluable skill to transfer to d
 ### Communication
 
 Throughout my career I have acted as a translator between the technical and non-technical. Describing sound can be hard, and my ability to interpret non-technically described client briefs into the what they required technically was a large part of my role.
-
-Similarly, a client could become frustrated when their vision wasn't materialising due to a technical reason. I would then have to explain why this problem was occurring in a non-technical way in order for a client to grasp it.
 
 Whilst following Agile processes and XP values at Makers it has been important to have very strong communication skills and I have particularly enjoyed the pairing and team projects.
 
