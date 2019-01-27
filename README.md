@@ -1,18 +1,19 @@
 ## Chris Gilbert
 
-[About] (##about)
-
 ## About
 
 I am a former Sound Designer who decided to learn to code at Makers Academy. Having designed and created sounds for the TV and radio, I now want to help design and create applications for the Web. Ideally, I am looking to work at a company that distributes media - preferably film, music or sport.
 
-## Skills
+## Projects
 
-| Tables        | Are           | Cool  |
+| Project        | Summary           | Technologies  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| TweetMood      | Used IBM's Watson to analyse the sentiment of tweets on a chose topic in a chosen location. Also built our own Holmes to rival with Watson. | Python, Django, Pytest, IBM Watson, Travis, Heroku |
+| Acebook     | Facebook clone      |   Rails, RSpec, Capybara, Trais, Heroku |
+| ChristaGram | Instagram clone     |    Rails, RSpec, Capybara, Travis, Heroku |
+| News Summary | Vanilla JS SPA pulling using the Guardian API to display latest news | JS, 'tea' (my own testing framework) |
+
+## Skills
 
 
 ### Technical
