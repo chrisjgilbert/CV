@@ -1,6 +1,6 @@
 ## Chris Gilbert
 
-[About] (#about)
+[About] (##about)
 
 ## About
 
