@@ -1,6 +1,4 @@
-# Chris Gilbert   
-[Medium](https://medium.com/@chrisjgilbert)   
-[Twitter](https://twitter.com/_chrisjgilbert)   
+# Chris Gilbert | [Medium](https://medium.com/@chrisjgilbert) | [Twitter](https://twitter.com/_chrisjgilbert)         
 
 ### [About](#About) | [Projects](#Projects) | [Skills](#Skills) |  [Education](#Education) | [Experience](#Experience) | [Interests](#Interests)
 
