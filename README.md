@@ -47,7 +47,7 @@ Creative problem solving has therefore been an invaluable skill to transfer to d
 
 Throughout my career I have acted as a translator between the technical and non-technical. Describing sound can be hard, and my ability to interpret non-technically described client briefs into the what they required technically was a large part of my role.
 
-Whilst following Agile processes and XP values at Makers it has been important to have very strong communication skills and I have particularly enjoyed the pairing and team projects.
+Whilst following Agile processes and XP values at Makers it has been important to have very strong communication skills and I have particularly enjoyed the pairing and team projects and my communication skills have been enhanced further.
 
 ## Education
 
@@ -56,7 +56,6 @@ Whilst following Agile processes and XP values at Makers it has been important t
 - XP Values
 - SOLID principles
 - Agile processes
-- A "growth" mindset
 
 ### University of Brighton (2010 to 2012)
 
@@ -78,7 +77,7 @@ Transitioned from an Assistant to full Sound Designer. Mixed and recorded audio 
 Started off as a runner making tea for engineers and clients before being promoted into the Transfer department.
 
 ## Interests
-- I produce a podcast 'A New Place Every Week' which is a food review show with a comedic edge (and comes out more like once a month!).
+- I produce a podcast 'A New Place Every Week' which is a food review show with a comedic edge.
 - I enjoy film and have mixed a few shorts. I wrote a full length screenplay
 which is currently gathering dust as it awaits a second draft.
-- I contributed bumper sounds to the worlds most popular Sound Design podcast, Tonebenders, which are still used today!
+- I contributed bumper sounds to the worlds most popular Sound Design podcast, Tonebenders, which are still used today.
