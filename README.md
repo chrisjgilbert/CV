@@ -38,7 +38,7 @@ This has set me in good stead to be able to pick up new technologies quickly. In
 
 I developed my creative problem solving skills in my role as a Sound Designer because a client would typically come to you with audio 'that just isn't working', or is noisy, and it would be your job to analyse it and come up with a solution to fix it.
 
-Creative problem solving has therefore been an invaluable skill to transfer to development, which necessitates it.
+Creative problem solving has therefore been an invaluable skill to transfer to development, which necessitates it and I feel I have developed it further whilst at Makers - solving some difficult challenges.
 
 * I won a 2016 Silver LIA award for an Xbox Radio commercial.
 * I was the guitarist and co-songwriter in a signed band between 2010-2013 which included releasing a full length album on Naim Edge and playing at Reading & Leeds festival.
