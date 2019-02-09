@@ -70,14 +70,12 @@ Mixed and recorded audio for clients such as Director's Cut, ITV, Comedy Central
 
 **McCann Erickson** (November 2014 to April 2017)   
 *Sound Designer*  
-Transitioned from an Assistant to full Sound Designer. Mixed and recorded audio for global advertising campaigns for clients such as Microsoft, Aldi, Subway, Shreddies, GWR, Xbox, PictureHouse & Bisto.
+Transitioned from an Assistant to Sound Designer. Mixed and recorded audio for global advertising campaigns for clients such as Microsoft, Aldi, Subway, Shreddies, GWR, Xbox, PictureHouse & Bisto.
 
 **750mph** (June 2013 to October 2014)   
-*Transfer Engineer*  
-Started off as a runner making tea for engineers and clients before being promoted into the Transfer department.
+*Runner, Transfer Engineer*  
+Started off as a runner making tea before being promoted into the Transfer department. Here I was responsible for managing file transfers in and out of the studios, setting up ISDN connections, QC'ing audio and being the link between studio engineer and client.
 
 ## Interests
 - I produce a podcast 'A New Place Every Week' which is a food review show with a comedic edge.
-- I enjoy film and have mixed a few shorts. I wrote a full length screenplay
-which is currently gathering dust as it awaits a second draft.
 - I contributed bumper sounds to the worlds most popular Sound Design podcast, Tonebenders, which are still used today.
