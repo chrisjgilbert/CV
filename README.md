@@ -6,8 +6,6 @@
 
 I am a former Sound Designer who decided to learn to code at Makers Academy. Having designed and created sounds for the TV and radio, I now want to help design and create applications for the Web.
 
-Ideally, I am looking to work at a company in the media industry - preferably film, music or sport.
-
 ## Projects
 
 | Project        | Summary           | Technologies  |
