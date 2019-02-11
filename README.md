@@ -14,7 +14,7 @@ I am a former Sound Designer who decided to learn to code at Makers Academy. Hav
 | [Acebook](https://github.com/chrisjgilbert/acebook-floppy-disk) | Facebook clone [deployed on Heroku](https://aqueous-wave-77193.herokuapp.com/) |   Rails, RSpec, Capybara, Travis, Heroku |
 | [News Summary](https://github.com/chrisjgilbert/news-summary-challenge) | Vanilla JS SPA using the Guardian API to display latest news | JS, tea (my own testing framework) |
 | [ChristaGram](https://github.com/chrisjgilbert/instagram-challenge) | InstaGram clone [deployed on Heroku](https://quiet-spire-51096.herokuapp.com/) | Rails, RSpec, Capybara, Travis, Heroku |
-| [nixtulloch](https://nixtulloch.com/) | Fashion consultant's personal site [currently live here](https://nixtulloch.com/) | jQuery, Bootstrap |
+| [nixtulloch](https://nixtulloch.com/) | Fashion consultant's personal site [currently live here](https://nixtulloch.com/) | HTML, CSS, jQuery, Bootstrap |
 
 ## Skills
 
