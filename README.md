@@ -66,6 +66,8 @@ Whilst following Agile processes and XP values at Makers it has been important t
 *Dubbing Mixer*  
 Mixed and recorded audio for clients such as Director's Cut, ITV, Comedy Central, MTV, Cartoon Network & 3Angrymen and Turner.
 
+I won various promax awards for my work with Comedy Central and Cartoon Network.
+
 **McCann Erickson** (November 2014 to April 2017)   
 *Sound Designer*  
 Transitioned from an Assistant to Sound Designer. Mixed and recorded audio for global advertising campaigns for clients such as Microsoft, Aldi, Subway, Shreddies, GWR, Xbox, PictureHouse & Bisto.
