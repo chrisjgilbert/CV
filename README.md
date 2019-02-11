@@ -38,7 +38,7 @@ I developed my creative problem solving skills in my role as a Sound Designer be
 
 Creative problem solving has therefore been an invaluable skill to transfer to development, which necessitates it and I feel I have developed it further whilst at Makers - solving some difficult challenges.
 
-* I won a 2016 Silver LIA award for an Xbox Radio commercial.
+* I won a 2016 Silver LIA award for an Xbox Radio commercial and various promax awards for my work with Comedy Central and Cartoon Network.
 * I was the guitarist and co-songwriter in a signed band between 2010-2013 which included releasing a full length album on Naim Edge and playing at Reading & Leeds festival.
 
 ### Communication
@@ -65,8 +65,6 @@ Whilst following Agile processes and XP values at Makers it has been important t
 **Offset Audio** (May 2017 to August 2018)    
 *Dubbing Mixer*  
 Mixed and recorded audio for clients such as Director's Cut, ITV, Comedy Central, MTV, Cartoon Network & 3Angrymen and Turner.
-
-I won various promax awards for my work with Comedy Central and Cartoon Network.
 
 **McCann Erickson** (November 2014 to April 2017)   
 *Sound Designer*  
